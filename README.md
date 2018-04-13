@@ -1,5 +1,5 @@
 # hello-world
-perfect repository
+perfect
 
 Hi everyones,
 
