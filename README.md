@@ -3,4 +3,4 @@ perfect repository
 
 Hi everyones,
 
-Lets talk anout everything.
+Lets talk about everything.
